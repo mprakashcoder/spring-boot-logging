@@ -4,6 +4,6 @@
 ## 1)Default Logging Setup
 By default, Spring Boot:
 
-Uses Logback as the underlying logging framework.
-Logs output to the console.
-Supports logging levels: TRACE, DEBUG, INFO, WARN, ERROR, and FATAL.
+<ul><li>Uses Logback as the underlying logging framework.</li><br>
+<li>Logs output to the console.</li><br>
+<li>Supports logging levels: TRACE, DEBUG, INFO, WARN, ERROR, and FATAL.</li></ul>
