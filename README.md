@@ -27,3 +27,15 @@ mvn clean install
 ```shell
 mvn clean spring-boot:run
 ```
+# dependency
+```shell
+<dependency>
+			<groupId>io.micrometer</groupId>
+			<artifactId>micrometer-core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>io.micrometer</groupId>
+			<artifactId>micrometer-registry-prometheus</artifactId>
+			<scope>runtime</scope>
+		</dependency>
+```
