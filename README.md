@@ -27,7 +27,7 @@ mvn clean install
 ```shell
 mvn clean spring-boot:run
 ```
-# dependency
+## dependency
 ```shell
 <dependency>
       <groupId>io.micrometer</groupId>
@@ -38,4 +38,8 @@ mvn clean spring-boot:run
     <artifactId>micrometer-registry-prometheus</artifactId>
 <scope>runtime</scope>
 </dependency>
+```
+#actuator link
+```shell
+http://localhost:8089/actuator
 ```
