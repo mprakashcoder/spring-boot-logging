@@ -55,4 +55,5 @@ http://localhost:8089/actuator
 -->Once application started, please check the logs.<br>
 -->Open http://localhost:8088 in browser, you will see Greeting demo page. Put your name and get greetings.<br>
 -->Now, open http://localhost:8089/log in browser. Check the message and logs.<br>
+-->Now, openhttp://localhost:8089/actuator in browser. Check the message and logs.<br>
 -->Please change the log level configuration in the application.properties for logging.level.root and re-run. You will find the difference of log level.
