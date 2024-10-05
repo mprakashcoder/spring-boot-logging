@@ -48,11 +48,11 @@ http://localhost:8089/log
 http://localhost:8089/actuator
 ```
 ## Logger
-Copy this project to your local machine
-Build thi project using mvn clean install -DskipTests command
-Run this application as java application or execute mvn spring-boot:run command
-This application is demo for logger; we can understand how logger works
-Once application started, please check the logs.
-Open http://localhost:8088 in browser, you will see Greeting demo page. Put your name and get greetings.
-Now, open http://localhost:8089/log in browser. Check the message and logs.
-Please change the log level configuration in the application.properties for logging.level.root and re-run. You will find the difference of log level.
+-->Copy this project to your local machine<br>
+-->Build thi project using mvn clean install -DskipTests command<br>
+-->Run this application as java application or execute mvn spring-boot:run command<br>
+-->This application is demo for logger; we can understand how logger works<br>
+-->Once application started, please check the logs.<br>
+-->Open http://localhost:8088 in browser, you will see Greeting demo page. Put your name and get greetings.<br>
+-->Now, open http://localhost:8089/log in browser. Check the message and logs.<br>
+-->Please change the log level configuration in the application.properties for logging.level.root and re-run. You will find the difference of log level.
