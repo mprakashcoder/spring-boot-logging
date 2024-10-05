@@ -39,7 +39,11 @@ mvn clean spring-boot:run
 <scope>runtime</scope>
 </dependency>
 ```
-#actuator link
+# log link
+```shell
+http://localhost:8089/log
+```
+# actuator link
 ```shell
 http://localhost:8089/actuator
 ```
